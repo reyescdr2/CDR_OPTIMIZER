@@ -1,0 +1,27 @@
+{
+    "exclude": [
+        "**/*"
+    ],
+    "ignore": [
+        "**/*"
+    ],
+    "reportMissingImports": "none",
+    "reportMissingModuleSource": "none",
+    "reportGeneralTypeIssues": "none",
+    "reportOptionalMemberAccess": "none",
+    "reportOptionalCall": "none",
+    "reportOptionalIterable": "none",
+    "reportOptionalContextManager": "none",
+    "reportOptionalOperand": "none",
+    "reportAttributeAccessIssue": "none",
+    "reportCallIssue": "none",
+    "reportIndexIssue": "none",
+    "reportReturnType": "none",
+    "reportArgumentType": "none",
+    "reportOperatorIssue": "none",
+    "reportAssignmentType": "none",
+    "reportUnusedImport": "none",
+    "typeCheckingMode": "off",
+    "useLibraryCodeForTypes": false,
+    "strictMode": false
+}
